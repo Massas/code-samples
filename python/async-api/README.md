@@ -1,4 +1,4 @@
-# Sample code to run Audio Classification
+# Sample code that shows the use of Async API to transcribe an audio file
 
 ## Install python requirements
 
